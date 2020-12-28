@@ -1,16 +1,14 @@
-# dtfbl
+# Smart Diabetes Manager
 
-A new Flutter project.
+is a senior project
+## about this repository
 
-## Getting Started
+A smart application that helps diabetics to regulate blood sugar levels and reduce complications resulting from high blood diabetes in patients. Through expert system technology and artificial intelligence
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+The application helps patients with:
+Measuring the percentage of diabetes and alerting the patient in the event of a high or low level of diabetes in the blood, and giving him the necessary medical procedures for that.
+It reminds the patient of the dates of the periodic medical examinations and analyzes their results.
+Reminds the patient of the dates for taking medical treatments.
+Calculates the necessary medical dose of insulin needles before meals.
+Measuring the ratio of pressure and weight and providing advice and guidance according to the results.
+Print weekly and monthly reports
